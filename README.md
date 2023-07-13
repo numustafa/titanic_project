@@ -3,10 +3,10 @@
 In this notebook, I tend to show my skills as a student of Data Science and Machine Learning. This is my first project on [kaggle](https://www.kaggle.com/code/numustafa/notebook4d61069338), and i will apply all of my machine learning knowledge to predict the survivors of the Titanic shipwreck. To improve upon my workflow, i followed the Kaggle Tutorial, Ken Jee's workflow techeniques and ChatGPT for more elaboration.
 
 ## Code and Resources Used
-Python Version: 3.11
-IDE: VSCode
-Workflow building: [KenJee](https://github.com/PlayingNumbers)
-Typical concept building: [ChatGPT](https://openai.com/blog/chatgpt)
+Python Version: 3.11 <br>
+IDE: VSCode <br>
+Workflow building: [KenJee](https://github.com/PlayingNumbers)<br>
+Typical concept building: [ChatGPT](https://openai.com/blog/chatgpt) <br>
 
 ## Understanding Data
 * Train and Test data impot
